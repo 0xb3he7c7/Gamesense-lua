@@ -1,3 +1,4 @@
+--2023.Mar.5---10:43
 local ref_mindmg = ui.reference("RAGE", "Aimbot", "Minimum damage")
 local ref_target = ui.reference("RAGE", "Aimbot", "Target selection")
 local ref_hitchance = ui.reference("RAGE", "Aimbot", "Minimum hit chance")
